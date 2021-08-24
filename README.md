@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuarmorrison
-- 👀 I’m interested in ... cybersecurity engineering
-- 🌱 I’m currently learning ... I am a project manager for a residential construction company looking to start a new career.
-- 💞️ I’m looking to collaborate on ... where to start and tips and info
+- 👀 I’m interested in ... Software Development/ Software Engineering
+- 🌱 I’m currently learning ... I am currently a student at Boise CodeWorks learning Software Development
+- 💞️ I’m looking to collaborate on ... possible employment and furthering my knowledge
 - 📫 How to reach me ... joshuarmorrison@gmail.com
 
 <!---
