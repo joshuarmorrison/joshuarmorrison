@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuarmorrison
 - 👀 I’m interested in ... Software Development/ Software Engineering
-- 🌱 I’m currently learning ... I am currently a student at Boise CodeWorks learning Software Development
-- 💞️ I’m looking to collaborate on ... possible employment and furthering my knowledge
+- 🌱  I am currently a student at Boise CodeWorks learning Software Development
+- 💞️ I’m looking to collaborate on ... possible employment and furthering my knowledge of Software Development
 - 📫 How to reach me ... joshuarmorrison@gmail.com
 
 <!---
