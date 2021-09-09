@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... possible employment,
  and furthering my knowledge of Software Development
 - 📫 How to reach me ... joshuarmorrison@gmail.com
-- (https://github.com/joshuarmorrison/joshuarmorrison/files/7133468/WK3.Career.docx) 
+[WK3 Career.docx](https://github.com/joshuarmorrison/joshuarmorrison/files/7133517/WK3.Career.docx)
+
 
 <!---
 joshuarmorrison/joshuarmorrison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
